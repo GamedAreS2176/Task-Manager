@@ -1,0 +1,16 @@
+{
+  "name": "student_management_api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Student Management API Using Express.js + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.4"
+  }
+}
